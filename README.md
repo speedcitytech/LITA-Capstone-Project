@@ -18,5 +18,3 @@ The sales dataset includes the following key columns:
 - **Unit Price**: The price per unit of the product.
   
 Total revenue is calculated as `Quantity * Unit Price` for each order.
-
-
