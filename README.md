@@ -1,3 +1,5 @@
+![Screenshot (15)](https://github.com/user-attachments/assets/44b6038f-ecd0-4449-aa4e-3cd8f0e0c56e)
+![Screenshot (14)](https://github.com/user-attachments/assets/6c0d8114-f888-4c7b-a2c2-6d11a63c055a)
 # Project 1: Sales Performance Analysis - Excel Analysis
 
 ## Overview
