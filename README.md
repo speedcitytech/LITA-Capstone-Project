@@ -1,5 +1,6 @@
-![Screenshot (15)](https://github.com/user-attachments/assets/44b6038f-ecd0-4449-aa4e-3cd8f0e0c56e)
-![Screenshot (14)](https://github.com/user-attachments/assets/6c0d8114-f888-4c7b-a2c2-6d11a63c055a)
+### Project Overview
+This project showcases a comprehensive analysis of retail store sales, offering insights into key metrics such as top-selling products, sales trends by region, quantity trends, and pricing details. The analysis assists in identifying high-demand products, assessing regional performance, and informing pricing strategies.
+
 # Project 1: Sales Performance Analysis - Excel Analysis
 
 ## Overview
@@ -20,3 +21,22 @@ The sales dataset includes the following key columns:
 - **Unit Price**: The price per unit of the product.
   
 Total revenue is calculated as `Quantity * Unit Price` for each order.
+
+### Pivot Table Insights
+1. **Total Sales by Product**
+   - This pivot table highlights the top-selling products based on total revenue.
+   - **Key Insight**: (Describe the top product and any interesting trends).
+
+2. **Total Revenue by Region**
+   - This pivot table shows revenue distribution across regions.
+   - **Key Insight**: (Mention the best-performing region, noting if any regions need targeted improvements).
+
+3. **Monthly Sales Trends**
+   - Sales over time are broken down by month to analyze trends.
+   - **Key Insight**: (Mention any seasonal trends or specific months with high or low sales).
+   
+4. **Unit Price by Product**
+   
+
+![Screenshot (15)](https://github.com/user-attachments/assets/44b6038f-ecd0-4449-aa4e-3cd8f0e0c56e)
+![Screenshot (14)](https://github.com/user-attachments/assets/6c0d8114-f888-4c7b-a2c2-6d11a63c055a)
