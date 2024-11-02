@@ -73,6 +73,8 @@ Total revenue is calculated as 'Quantity * Unit Price' for each order.
  
 ![Screenshot (16)](https://github.com/user-attachments/assets/547f4836-2b91-4d94-bb45-d5988d1a479d)
 ![Screenshot (17)](https://github.com/user-attachments/assets/175beb57-6dc5-4961-a757-edbaf7e8ec9b)
+![Screenshot (18)](https://github.com/user-attachments/assets/3be027e2-0458-4d25-9a59-9ed9570416ac)
+![Screenshot (19)](https://github.com/user-attachments/assets/aad5dd67-fce7-492c-96ea-a6a3b8252a54)
 
 For each additional pivot table, include observations that highlight why the table is useful and what insights it offers.
 
