@@ -1,7 +1,7 @@
 # Project Overview
 This project showcases a comprehensive analysis of retail store sales, offering insights into key metrics such as top-selling products, sales trends by region, quantity trends, and pricing details. The analysis assists in identifying high-demand products, assessing regional performance, and informing pricing strategies.
 
-# Project 1: Sales Performance Analysis - Excel Analysis
+# Project 1: Sales Performance Analysis 
 
 ### Overview
 This section provides the initial exploration of sales data for a retail store, aiming to uncover key insights into the performance of products, regions, and sales trends over time.
